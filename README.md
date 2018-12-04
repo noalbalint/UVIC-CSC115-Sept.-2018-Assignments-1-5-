@@ -2,4 +2,4 @@
 
 All assignments from the September 2018 University of Victoria CSC 115 class. 
 
-For refernce purposes only, do not plaigarize! 
+For reference purposes only, do not plaigarize! 
