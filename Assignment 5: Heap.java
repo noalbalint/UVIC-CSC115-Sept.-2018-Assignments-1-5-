@@ -1,6 +1,5 @@
 /*
 * Name: Noal Balint
-* ID: V00906500
 * Date: Dec. 3 2018
 * Filename: Heap.java
 * Details: CSC115 Assignment 5
